@@ -1,0 +1,15 @@
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\Exercice02.csproj.AssemblyReference.cache
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\Exercice02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\Exercice02.AssemblyInfoInputs.cache
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\Exercice02.AssemblyInfo.cs
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\Exercice02.csproj.CoreCompileInputs.cache
+C:\Users\migue\ExercicesC#Curse\Exercice02\bin\Debug\net7.0\Exercice02.exe
+C:\Users\migue\ExercicesC#Curse\Exercice02\bin\Debug\net7.0\Exercice02.deps.json
+C:\Users\migue\ExercicesC#Curse\Exercice02\bin\Debug\net7.0\Exercice02.runtimeconfig.json
+C:\Users\migue\ExercicesC#Curse\Exercice02\bin\Debug\net7.0\Exercice02.dll
+C:\Users\migue\ExercicesC#Curse\Exercice02\bin\Debug\net7.0\Exercice02.pdb
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\Exercice02.dll
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\refint\Exercice02.dll
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\Exercice02.pdb
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\Exercice02.genruntimeconfig.cache
+C:\Users\migue\ExercicesC#Curse\Exercice02\obj\Debug\net7.0\ref\Exercice02.dll

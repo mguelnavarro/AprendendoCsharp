@@ -1,0 +1,15 @@
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\Exercice04.csproj.AssemblyReference.cache
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\Exercice04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\Exercice04.AssemblyInfoInputs.cache
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\Exercice04.AssemblyInfo.cs
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\Exercice04.csproj.CoreCompileInputs.cache
+C:\Users\migue\ExercicesC#Curse\Exercice04\bin\Debug\net7.0\Exercice04.exe
+C:\Users\migue\ExercicesC#Curse\Exercice04\bin\Debug\net7.0\Exercice04.deps.json
+C:\Users\migue\ExercicesC#Curse\Exercice04\bin\Debug\net7.0\Exercice04.runtimeconfig.json
+C:\Users\migue\ExercicesC#Curse\Exercice04\bin\Debug\net7.0\Exercice04.dll
+C:\Users\migue\ExercicesC#Curse\Exercice04\bin\Debug\net7.0\Exercice04.pdb
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\Exercice04.dll
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\refint\Exercice04.dll
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\Exercice04.pdb
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\Exercice04.genruntimeconfig.cache
+C:\Users\migue\ExercicesC#Curse\Exercice04\obj\Debug\net7.0\ref\Exercice04.dll
