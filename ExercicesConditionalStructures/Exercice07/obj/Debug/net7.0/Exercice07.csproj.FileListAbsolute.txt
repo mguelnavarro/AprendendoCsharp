@@ -1,0 +1,14 @@
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/obj/Debug/net7.0/Exercice07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/obj/Debug/net7.0/Exercice07.AssemblyInfoInputs.cache
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/obj/Debug/net7.0/Exercice07.AssemblyInfo.cs
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/obj/Debug/net7.0/Exercice07.csproj.CoreCompileInputs.cache
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/bin/Debug/net7.0/Exercice07
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/bin/Debug/net7.0/Exercice07.deps.json
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/bin/Debug/net7.0/Exercice07.runtimeconfig.json
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/bin/Debug/net7.0/Exercice07.dll
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/bin/Debug/net7.0/Exercice07.pdb
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/obj/Debug/net7.0/Exercice07.dll
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/obj/Debug/net7.0/refint/Exercice07.dll
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/obj/Debug/net7.0/Exercice07.pdb
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/obj/Debug/net7.0/Exercice07.genruntimeconfig.cache
+/Users/miguel/Documents/AprendendoCsharp/ExercicesConditionalStructures/Exercice07/obj/Debug/net7.0/ref/Exercice07.dll
