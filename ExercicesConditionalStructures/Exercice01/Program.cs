@@ -15,7 +15,6 @@ namespace ExercicesCondionalStructures{
              Console.WriteLine($"O número {number} é neutro.");
             }else{
              Console.WriteLine($"O número {number} é positivo.");
-
             }
             
         }

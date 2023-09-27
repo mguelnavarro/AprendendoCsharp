@@ -1,0 +1,14 @@
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/obj/Debug/net7.0/Exercice02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/obj/Debug/net7.0/Exercice02.AssemblyInfoInputs.cache
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/obj/Debug/net7.0/Exercice02.AssemblyInfo.cs
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/obj/Debug/net7.0/Exercice02.csproj.CoreCompileInputs.cache
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/bin/Debug/net7.0/Exercice02
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/bin/Debug/net7.0/Exercice02.deps.json
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/bin/Debug/net7.0/Exercice02.runtimeconfig.json
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/bin/Debug/net7.0/Exercice02.dll
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/bin/Debug/net7.0/Exercice02.pdb
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/obj/Debug/net7.0/Exercice02.dll
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/obj/Debug/net7.0/refint/Exercice02.dll
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/obj/Debug/net7.0/Exercice02.pdb
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/obj/Debug/net7.0/Exercice02.genruntimeconfig.cache
+/Users/miguel/Documents/AprendendoCsharp/ExercicesWhileStructures/Exercice02/obj/Debug/net7.0/ref/Exercice02.dll
