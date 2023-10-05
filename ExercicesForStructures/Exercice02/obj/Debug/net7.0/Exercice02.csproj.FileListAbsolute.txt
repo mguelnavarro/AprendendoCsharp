@@ -1,0 +1,14 @@
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\obj\Debug\net7.0\Exercice02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\obj\Debug\net7.0\Exercice02.AssemblyInfoInputs.cache
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\obj\Debug\net7.0\Exercice02.AssemblyInfo.cs
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\obj\Debug\net7.0\Exercice02.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\bin\Debug\net7.0\Exercice02.exe
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\bin\Debug\net7.0\Exercice02.deps.json
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\bin\Debug\net7.0\Exercice02.runtimeconfig.json
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\bin\Debug\net7.0\Exercice02.dll
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\bin\Debug\net7.0\Exercice02.pdb
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\obj\Debug\net7.0\Exercice02.dll
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\obj\Debug\net7.0\refint\Exercice02.dll
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\obj\Debug\net7.0\Exercice02.pdb
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\obj\Debug\net7.0\Exercice02.genruntimeconfig.cache
+C:\Users\Miguel\AprendendoCsharp\ExercicesForStructures\Exercice02\obj\Debug\net7.0\ref\Exercice02.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesSequentialStructures\\Exercice01\\Exercice01.csproj": {}
+    "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesForStructures\\Exercice02\\Exercice02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesSequentialStructures\\Exercice01\\Exercice01.csproj": {
+    "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesForStructures\\Exercice02\\Exercice02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesSequentialStructures\\Exercice01\\Exercice01.csproj",
-        "projectName": "Exercice01",
-        "projectPath": "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesSequentialStructures\\Exercice01\\Exercice01.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesForStructures\\Exercice02\\Exercice02.csproj",
+        "projectName": "Exercice02",
+        "projectPath": "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesForStructures\\Exercice02\\Exercice02.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesSequentialStructures\\Exercice01\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\AprendendoCsharp\\ExercicesForStructures\\Exercice02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
