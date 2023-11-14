@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StockStore
-build_property.ProjectDir = /Users/miguel/Documents/AprendendoCsharp/StockStore/
+build_property.ProjectDir = C:\Users\Miguel\AprendendoCsharp\StockStore\

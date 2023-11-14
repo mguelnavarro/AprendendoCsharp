@@ -1,6 +1,6 @@
 namespace Exercice01
 {
-    class Informations{
+    class Person{
         public string Name;
         public int Age;
     }

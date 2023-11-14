@@ -1,0 +1,14 @@
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\bin\Debug\net7.0\TriangleHeron.cs.exe
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\bin\Debug\net7.0\TriangleHeron.cs.deps.json
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\bin\Debug\net7.0\TriangleHeron.cs.runtimeconfig.json
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\bin\Debug\net7.0\TriangleHeron.cs.dll
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\bin\Debug\net7.0\TriangleHeron.cs.pdb
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\obj\Debug\net7.0\TriangleHeron.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\obj\Debug\net7.0\TriangleHeron.cs.AssemblyInfoInputs.cache
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\obj\Debug\net7.0\TriangleHeron.cs.AssemblyInfo.cs
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\obj\Debug\net7.0\TriangleHeron.cs.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\obj\Debug\net7.0\TriangleHeron.cs.dll
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\obj\Debug\net7.0\refint\TriangleHeron.cs.dll
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\obj\Debug\net7.0\TriangleHeron.cs.pdb
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\obj\Debug\net7.0\TriangleHeron.cs.genruntimeconfig.cache
+C:\Users\Miguel\AprendendoCsharp\TriangleHeron.cs\obj\Debug\net7.0\ref\TriangleHeron.cs.dll

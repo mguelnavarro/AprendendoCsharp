@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/miguel/Documents/AprendendoCsharp/StockStore/StockStore.csproj": {}
+    "C:\\Users\\Miguel\\AprendendoCsharp\\StockStore\\StockStore.csproj": {}
   },
   "projects": {
-    "/Users/miguel/Documents/AprendendoCsharp/StockStore/StockStore.csproj": {
+    "C:\\Users\\Miguel\\AprendendoCsharp\\StockStore\\StockStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/miguel/Documents/AprendendoCsharp/StockStore/StockStore.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\AprendendoCsharp\\StockStore\\StockStore.csproj",
         "projectName": "StockStore",
-        "projectPath": "/Users/miguel/Documents/AprendendoCsharp/StockStore/StockStore.csproj",
-        "packagesPath": "/Users/miguel/.nuget/packages/",
-        "outputPath": "/Users/miguel/Documents/AprendendoCsharp/StockStore/obj/",
+        "projectPath": "C:\\Users\\Miguel\\AprendendoCsharp\\StockStore\\StockStore.csproj",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miguel\\AprendendoCsharp\\StockStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/miguel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

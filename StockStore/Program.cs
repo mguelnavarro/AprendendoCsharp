@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Reflection.Metadata;
 
 namespace StockStore{
@@ -6,19 +7,22 @@ namespace StockStore{
         public static void Main(string[] args){
             Products product = new Products();
             
+            //Type productNameType = product.Name.GetType();
             bool select = true;
             while(select == true){
-            Console.Write("Selecione o numero da açao no estoque:\n1 - Iniciar \n2- Sair\n ");
+            Console.Write("Selecione o numero da açao no estoque:\n1 - Iniciar \n2- Sair\n");
             int choice = int.Parse(Console.ReadLine());
 
             if(choice == 1 ){
             Console.WriteLine("Insira os dados do produto");
             Console.Write("Digite o nome do produto: ");
             product.Name = Console.ReadLine();
-            if(product.Name.GetType() == typeof(string)){
-                Console.Write("Nome inválido.");
+
+            if (double.TryParse(product.Name, out double result)){
+                Console.Write("Nome incorreto.");
                 break;
             }
+
             Console.Write("Digite o preço do produto: ");
             product.Price = double.Parse(Console.ReadLine());
             Console.Write("Digite a quantidade: ");

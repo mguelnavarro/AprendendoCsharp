@@ -1,0 +1,14 @@
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\bin\Debug\net7.0\Exercice05.exe
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\bin\Debug\net7.0\Exercice05.deps.json
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\bin\Debug\net7.0\Exercice05.runtimeconfig.json
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\bin\Debug\net7.0\Exercice05.dll
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\bin\Debug\net7.0\Exercice05.pdb
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\obj\Debug\net7.0\Exercice05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\obj\Debug\net7.0\Exercice05.AssemblyInfoInputs.cache
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\obj\Debug\net7.0\Exercice05.AssemblyInfo.cs
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\obj\Debug\net7.0\Exercice05.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\obj\Debug\net7.0\Exercice05.dll
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\obj\Debug\net7.0\refint\Exercice05.dll
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\obj\Debug\net7.0\Exercice05.pdb
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\obj\Debug\net7.0\Exercice05.genruntimeconfig.cache
+C:\Users\Miguel\AprendendoCsharp\ExercicesClass\Exercice05\obj\Debug\net7.0\ref\Exercice05.dll

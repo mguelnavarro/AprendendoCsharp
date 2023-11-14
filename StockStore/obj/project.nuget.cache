@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0tfKGKXKNiezTHgSVgdUWGPr6Ut1wOFP4wUonuFyKU8jB7PHWXgetkA59B9d70yzsfIgVol9iYiRYpH4WbQJEQ==",
+  "dgSpecHash": "aoBr5CHa9l4B/bJbl0GfjKACogQ2mu+NpEE6xyd+mwb4hJ1S5oZ+wFhSVw7k45klmCEwfMotnp2u0ou+cPCwaA==",
   "success": true,
-  "projectFilePath": "/Users/miguel/Documents/AprendendoCsharp/StockStore/StockStore.csproj",
+  "projectFilePath": "C:\\Users\\Miguel\\AprendendoCsharp\\StockStore\\StockStore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

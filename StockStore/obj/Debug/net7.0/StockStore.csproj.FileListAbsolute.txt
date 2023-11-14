@@ -12,3 +12,17 @@
 /Users/miguel/Documents/AprendendoCsharp/StockStore/obj/Debug/net7.0/StockStore.pdb
 /Users/miguel/Documents/AprendendoCsharp/StockStore/obj/Debug/net7.0/StockStore.genruntimeconfig.cache
 /Users/miguel/Documents/AprendendoCsharp/StockStore/obj/Debug/net7.0/ref/StockStore.dll
+C:\Users\Miguel\AprendendoCsharp\StockStore\bin\Debug\net7.0\StockStore.exe
+C:\Users\Miguel\AprendendoCsharp\StockStore\bin\Debug\net7.0\StockStore.deps.json
+C:\Users\Miguel\AprendendoCsharp\StockStore\bin\Debug\net7.0\StockStore.runtimeconfig.json
+C:\Users\Miguel\AprendendoCsharp\StockStore\bin\Debug\net7.0\StockStore.dll
+C:\Users\Miguel\AprendendoCsharp\StockStore\bin\Debug\net7.0\StockStore.pdb
+C:\Users\Miguel\AprendendoCsharp\StockStore\obj\Debug\net7.0\StockStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\AprendendoCsharp\StockStore\obj\Debug\net7.0\StockStore.AssemblyInfoInputs.cache
+C:\Users\Miguel\AprendendoCsharp\StockStore\obj\Debug\net7.0\StockStore.AssemblyInfo.cs
+C:\Users\Miguel\AprendendoCsharp\StockStore\obj\Debug\net7.0\StockStore.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\AprendendoCsharp\StockStore\obj\Debug\net7.0\StockStore.dll
+C:\Users\Miguel\AprendendoCsharp\StockStore\obj\Debug\net7.0\refint\StockStore.dll
+C:\Users\Miguel\AprendendoCsharp\StockStore\obj\Debug\net7.0\StockStore.pdb
+C:\Users\Miguel\AprendendoCsharp\StockStore\obj\Debug\net7.0\StockStore.genruntimeconfig.cache
+C:\Users\Miguel\AprendendoCsharp\StockStore\obj\Debug\net7.0\ref\StockStore.dll

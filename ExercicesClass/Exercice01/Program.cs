@@ -4,10 +4,10 @@ using System;
 namespace Exercice01{
     class Program{
         public static void Main(){
-            Informations person1,person2 ;
+            Person person1,person2 ;
             
-            person1 = new Informations();
-            person2 = new Informations();
+            person1 = new Person();
+            person2 = new Person();
 
             Console.Write("Digite o nome da primeira pessoa: ");
             person1.Name = Console.ReadLine();
